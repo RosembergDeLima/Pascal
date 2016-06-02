@@ -4,6 +4,6 @@
 
 Program HelloWorld;    
  Begin
-	 {Printa a frase Hello World}
+   {Printa a frase Hello World}
    write('Hello World!');
  End.
