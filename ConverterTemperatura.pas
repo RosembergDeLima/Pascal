@@ -4,9 +4,9 @@ Var
   
 Begin
   write('Fahrenhite: ');
-	read(F);
+  read(F);
 	
-	C:=(5/9)*(F-32);
+  C:=(5/9)*(F-32);
 	
-	write('Celsius: ', C:5:2);  
+  write('Celsius: ', C:5:2);  
 End.                                
