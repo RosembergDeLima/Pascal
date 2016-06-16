@@ -1,6 +1,6 @@
 Program Dobro;
 Var
-	num: Integer;
+  num: Integer;
 Begin
   write('Digite o número desejado: ');
   readln(num);
