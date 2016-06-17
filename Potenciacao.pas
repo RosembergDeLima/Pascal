@@ -4,9 +4,9 @@ Var
   pot: Real;
 Begin
   write('Digite a base e o expotente: ');
-	read(x, y);
+  read(x, y);
 	
-	pot:=EXP(LN(x)*y);
+  pot:=EXP(LN(x)*y);
 	
-	write('A potência é: ', pot:5:2);  
+  write('A potência é: ', pot:5:2);  
 End.
