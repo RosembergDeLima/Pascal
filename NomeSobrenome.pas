@@ -3,9 +3,9 @@ Var
   nome, sobrenome: String;
 Begin
   write('Digite o nome: ');
-	read(nome);
-	write('Digite o sobrenome: ');
-	read(sobrenome);
+  read(nome);
+  write('Digite o sobrenome: ');
+  read(sobrenome);
 	
-	write(sobrenome, ', ', nome);  
+  write(sobrenome, ', ', nome);  
 End.
